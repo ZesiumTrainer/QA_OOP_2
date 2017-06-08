@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2017\Projects\QA_OOP_2\QA_OOP_2\bin\Debug\QA_OOP_2.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\QA_OOP_2\QA_OOP_2\bin\Debug\QA_OOP_2.exe
+c:\users\admin\documents\visual studio 2017\Projects\QA_OOP_2\QA_OOP_2\bin\Debug\QA_OOP_2.pdb
+c:\users\admin\documents\visual studio 2017\Projects\QA_OOP_2\QA_OOP_2\obj\Debug\QA_OOP_2.exe
+c:\users\admin\documents\visual studio 2017\Projects\QA_OOP_2\QA_OOP_2\obj\Debug\QA_OOP_2.pdb
+c:\users\admin\documents\visual studio 2017\Projects\QA_OOP_2\QA_OOP_2\obj\Debug\QA_OOP_2.csprojResolveAssemblyReference.cache
+C:\Users\Rajko\Desktop\New folder\QA_OOP_2\QA_OOP_2\bin\Debug\QA_OOP_2.exe.config
+C:\Users\Rajko\Desktop\New folder\QA_OOP_2\QA_OOP_2\bin\Debug\QA_OOP_2.exe
+C:\Users\Rajko\Desktop\New folder\QA_OOP_2\QA_OOP_2\bin\Debug\QA_OOP_2.pdb
+C:\Users\Rajko\Desktop\New folder\QA_OOP_2\QA_OOP_2\obj\Debug\QA_OOP_2.csprojResolveAssemblyReference.cache
+C:\Users\Rajko\Desktop\New folder\QA_OOP_2\QA_OOP_2\obj\Debug\QA_OOP_2.exe
+C:\Users\Rajko\Desktop\New folder\QA_OOP_2\QA_OOP_2\obj\Debug\QA_OOP_2.pdb
